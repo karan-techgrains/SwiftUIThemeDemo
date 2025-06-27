@@ -11,6 +11,3 @@ This project demonstrates a scalable and reusable **theme management system** in
 - Optionally persistent using `@AppStorage`
 
 ---
-
-## 📁 Project Structure
-
